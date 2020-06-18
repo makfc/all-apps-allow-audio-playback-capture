@@ -1,0 +1,2 @@
+rootProject.name='All Apps Allow Audio Playback Capture'
+include ':app'
